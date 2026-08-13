@@ -1,12 +1,12 @@
 # Frameworks Front-end - Aula 01
 
-## 📚 Apresentação da Disciplina
+##  Apresentação da Disciplina
 
 A disciplina de **Frameworks Front-end** tem como objetivo ensinar o desenvolvimento de aplicações Web modernas utilizando frameworks front-end, preparando os alunos para o mercado de trabalho por meio de atividades práticas e projetos.
 
 ---
 
-## 🎯 Objetivo da Disciplina
+##  Objetivo da Disciplina
 
 Ao final do semestre, o estudante será capaz de:
 
@@ -17,13 +17,13 @@ Ao final do semestre, o estudante será capaz de:
 
 ---
 
-## 🌐 O que é Front-end?
+##  O que é Front-end?
 
 O Front-end é a camada da aplicação responsável pela interação direta com o usuário. Ele cuida da interface gráfica, organização dos elementos, experiência do usuário (UX) e comunicação com o back-end.
 
 ---
 
-## 💻 JavaScript (Vanilla JS)
+##  JavaScript (Vanilla JS)
 
 Foi apresentado o conceito de **Vanilla JavaScript**, que é o JavaScript puro, sem bibliotecas ou frameworks.
 
@@ -36,7 +36,7 @@ Sua importância está em:
 
 ---
 
-## 🚀 Introdução aos Frameworks Front-end
+##  Introdução aos Frameworks Front-end
 
 Durante a aula foram apresentados os principais frameworks utilizados atualmente:
 
@@ -54,7 +54,7 @@ Também foram introduzidos conceitos como:
 
 ---
 
-## 🏗️ Arquitetura de um Site
+##  Arquitetura de um Site
 
 Antes do desenvolvimento é importante realizar:
 
@@ -65,7 +65,7 @@ Antes do desenvolvimento é importante realizar:
 
 ---
 
-## 🔄 Versionamento e Deploy
+##  Versionamento e Deploy
 
 A disciplina utilizará ferramentas de versionamento e publicação de projetos, como:
 
@@ -77,7 +77,7 @@ Essas ferramentas permitem controlar versões do código e disponibilizar aplica
 
 ---
 
-## 📖 Conteúdos que serão estudados
+##  Conteúdos que serão estudados
 
 - Ambiente de desenvolvimento;
 - Frameworks CSS;
@@ -90,7 +90,7 @@ Essas ferramentas permitem controlar versões do código e disponibilizar aplica
 
 ---
 
-## 📋 Metodologia
+##  Metodologia
 
 As aulas serão desenvolvidas através de:
 
@@ -102,7 +102,7 @@ As aulas serão desenvolvidas através de:
 
 ---
 
-## 📊 Critérios de Avaliação
+##  Critérios de Avaliação
 
 A avaliação será composta por:
 
@@ -116,7 +116,7 @@ A avaliação será composta por:
 
 ---
 
-## 📌 Atividades da Aula
+##  Atividades da Aula
 
 Nesta primeira aula foi solicitado:
 
@@ -127,6 +127,6 @@ Nesta primeira aula foi solicitado:
 
 ---
 
-## ✅ Conclusão
+##  Conclusão
 
 A Aula 01 apresentou os objetivos da disciplina, o planejamento do semestre e os principais conceitos do desenvolvimento Front-end. Também mostrou a importância dos frameworks modernos, do versionamento com Git/GitHub e do deploy de aplicações, preparando os alunos para os projetos que serão desenvolvidos durante o semestre.
