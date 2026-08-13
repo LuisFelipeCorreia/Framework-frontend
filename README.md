@@ -1,10 +1,10 @@
-# 🚀 Frameworks Front-end
+#  Frameworks Front-end
 
 Este repositório foi criado para armazenar os projetos, atividades e conteúdos desenvolvidos durante a disciplina de **Frameworks Front-end**.
 
 O objetivo da disciplina é desenvolver conhecimentos relacionados à criação de interfaces e aplicações web, utilizando tecnologias e conceitos fundamentais do desenvolvimento Front-end.
 
-## 📚 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 Durante as atividades e projetos deste repositório poderão ser utilizadas as seguintes tecnologias:
 
@@ -13,7 +13,7 @@ Durante as atividades e projetos deste repositório poderão ser utilizadas as s
 * JavaScript
 * JavaScript Vanilla
 
-## 📂 Estrutura do repositório
+##  Estrutura do repositório
 
 ```text
 Frameworks-Front-end/
@@ -25,11 +25,11 @@ Frameworks-Front-end/
 └── README.md
 ```
 
-## 🎯 Objetivo
+##  Objetivo
 
 Este repositório tem como objetivo registrar e organizar as atividades práticas desenvolvidas ao longo da disciplina, aplicando conceitos de desenvolvimento Front-end e programação para a criação de interfaces web.
 
-## 🛠️ Como executar os projetos
+##  Como executar os projetos
 
 1. Clone este repositório:
 
@@ -45,7 +45,7 @@ git clone SEU-LINK-DO-REPOSITORIO
 
 Também é possível utilizar a extensão **Live Server** do Visual Studio Code para executar os projetos localmente.
 
-## 👨‍💻 Autor
+##  Autor
 
 **Luís Felipe Santos Correia**
 
